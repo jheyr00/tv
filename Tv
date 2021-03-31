@@ -1,548 +1,387 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-logo="https://img2.pngio.com/exclamation-mark-png-pic-png-arts-exclamation-point-logo-png-1185_1184.png",GAWA NI JHAEYR.
-plugin://plugin.video.youtube/play/?video_id=CM4CkVFmTds
-
-#EXTINF:-1 tvg-logo="https://img2.pngio.com/exclamation-mark-png-pic-png-arts-exclamation-point-logo-png-1185_1184.png", Do not spread the links. [Facebook.com/jhayr00]
-http://devimages.apple.com/iphone/samples/bipbop/bipbopall.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Kapamilya_Channel_logo.svg/revision/latest/scale-to-width-down/2000?cb=20200819050409" group-title="Local",Kapamilya Channel
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/100.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/PTVStackedalt.svg/revision/latest/scale-to-width-down/2000?cb=20200807092847" group-title="Local",PTV
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/101.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/TV5_Logo_(2019).svg/revision/latest/scale-to-width-down/2000?cb=20190117181956" group-title="Local",TV5
-http://103.11.112.84:1935/live2/smil:tv5.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/One_Sports_(TV_network).png/revision/latest/scale-to-width-down/732?cb=20200308081417" group-title="Sports",One Sports
-http://103.11.112.28:1935/live2/smil:onesports.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/GMA.svg/revision/latest/scale-to-width-down/2000?cb=20200814145443" group-title="Local",GMA
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/99.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/GMAPinoyTVvector05.png/revision/latest/scale-to-width-down/2000?cb=20200901093722" group-title="Local",GMA Pinoy TV
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/cd1b220644affbb.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/JTV2015.svg/revision/latest/scale-to-width-down/2000?cb=20160824071938" group-title="Local",Jeepney TV
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/106.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jgky5WK/New-Project.png" group-title="Local",DepEd TV
-http://59c3ec70cfde0.streamlock.net/channel_7/channel7/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kBQSvsJ/IMG-20201226-104652.png" group-title="Local",Knowledge Channel
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla&Referrer=https%3A%2F%2Ftfc.tv%2F&X-Forwarded-For=175.176.0.236
-#EXTVLCOPT:http-referrer=https://tfc.tv/
-#EXTVLCOPT:http-user-agent=Mozilla
-https://amdottlive.akamaized.net/hls/live/2018990/iwantknowledge/master480p.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/SOLARLEARNING.png/revision/latest/scale-to-width-down/2000?cb=20200815083543" group-title="Local",Solar Learning
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/123.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/GTV_Philippines_%28official_logo%29.png/revision/latest/scale-to-width-down/2000?cb=20210302112414" group-title="Local",GTV
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/107.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/IBC13_Logo_2011.svg/revision/latest/scale-to-width-down/2000?cb=20200505184109" group-title="Local",IBC
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/98.m3u8
-
-#EXTINF:-1 tvg-logo="https://net25.tv/wp-content/uploads/2020/10/net25_newlogo_2020.png" group-title="Local",NET 25
-https://ebc.sytes.net/hls/net25.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/TeleRadyo_Logo.svg/320px-TeleRadyo_Logo.svg.png" group-title="News",TeleRadyo
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/bf85cce9b7906bf.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VgYJwck/One-PH.jpg" group-title="News",One PH
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/115.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/UNTV-Logo-2016.svg/1200px-UNTV-Logo-2016.svg.png" group-title="News",UNTV
-https://untvweb.com/live-stream/untvweb.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZMZtVYd/Pics-Art-10-31-01-28-39.png" group-title="News",ANC
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/103.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/DZRH_News_Television_logo.jpg" group-title="News",DZRH News Television
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/108.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/CNN_Philippines_Logo.svg/revision/latest/scale-to-width-down/2000?cb=20200505183052" group-title="News",CNN Philippines
-https://streaming.cnnphilippines.com/live/myStream/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/TVSHOPPH.png" group-title="Local",TVShop
-http://59c3ec70cfde0.streamlock.net/channel_1/channel1/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/Cl_tv_36_ph.png/revision/latest/scale-to-width-down/2000?cb=20130823135759" group-title="Local",Central Luzon Television 36
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/134.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.islandlivingchannel.tv/wp-content/uploads/2014/08/cropped-island_living_logo.png" group-title="Local",Island Living Channel
-http://59c3ec70cfde0.streamlock.net/channel_5/channel5/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://mytv.ph/assets/img/logo-white.png" group-title="Local",MyTV Cebu
-http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LdP8NBN/Metro-Channel-White-Logo-2018.png" group-title="Lifestyle",Metro Channel
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/129.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/ETC_(2016).svg/revision/latest/scale-to-width-down/2000?cb=20200801100404" group-title="Lifestyle",ETC
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/130.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Sari-Sari_alternate_Logo.PNG/revision/latest/scale-to-width-down/2000?cb=20160619031101" group-title="Local",Sari-Sari
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/139.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/9/9a/Cine_Mo!_3D_Logo.png/revision/latest/scale-to-width-down/2000?cb=20210301131124" group-title="Movies",Cine Mo!
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/3254f236ad3e872.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/9/9a/Cine_Mo!_3D_Logo.png/revision/latest/scale-to-width-down/2000?cb=20210301131124" group-title="Movies",Cine Mo! Philippines
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/127.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/1200px-Cinema_One_2013_logo.svg.png" group-title="Movies",Cinema One Asia
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/8b50f0987797f7d.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/1200px-Cinema_One_2013_logo.svg.png" group-title="Movies",Cinema One Philippines
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/109.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/1200px-Cinema_One_2013_logo.svg.png" group-title="Movies",Cinema One
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/fe8a278cd5312f3.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/PBO_PNG-og_image.png/revision/latest/scale-to-width-down/2000?cb=20201209065132" group-title="Movies",PBO
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/110.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/INCTV-Logo-2012.png/revision/latest/scale-to-width-down/732?cb=20180106181055" group-title="Religious",INC TV
-https://churchrus2-lh.akamaihd.net/i/coctesting_1@57550/index_1500_av-p.m3u8?
-
-#EXTINF:-1 tvg-logo="https://smni.com/static/6a6e2c7fd7504e4dad476c6a9d58021c/630fb/smni-logo.png" group-title="Religious",SMNI
-http://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
-
-#EXTINF:-1 tvg-logo="http://gctv.asia/img/gctv-logo.png" group-title="Religious",GCTV
-http://45.32.115.103/live/livestream/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.jing.fm/clipimg/full/25-257085_cbn-logo-cbn-tv-logo.png" group-title="Religious",CBN
-https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b0/Hillsong_Channel_Logo.png" group-title="Religious",Hillsong Channel
-http://api.new.livestream.com/accounts/27460990/events/8266909/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Animax_logo.svg/revision/latest/scale-to-width-down/2000?cb=20180730143228" group-title="Kids",Animax
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/125.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Disney_channel_2019.svg/revision/latest/scale-to-width-down/2000?cb=20200320115508" group-title="Kids",Disney Channel
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/514
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Disney_channel_2019.svg/revision/latest/scale-to-width-down/2000?cb=20200320115508" group-title="Kids",Disney Channel Asia
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/126.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YD7Lmvs/Disney-Junior-2019.png" group-title="Kids",Disney Junior
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/513
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/31/Nick_2009.svg/revision/latest/scale-to-width-down/2000?cb=20200621143348" group-title="Kids",Nickelodeon
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=User%20Agent%2F26.0%20(Linux%3BAndroid%205.1.1)%20ExoPlayerLib%2F2.4.0
-#EXTVLCOPT:http-user-agent=User Agent/26.0 (Linux;Android 5.1.1) ExoPlayerLib/2.4.0
-https://indotv.tech/m3u8sd/usee-nickelodeon-indonesia.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jV9yP4n/Pics-Art-10-31-08-15-45.png" group-title="Kids",Cartoon Network HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=User%20Agent%2F26.0%20(Linux%3BAndroid%205.1.1)%20ExoPlayerLib%2F2.4.0
-#EXTVLCOPT:http-user-agent=User Agent/26.0 (Linux;Android 5.1.1) ExoPlayerLib/2.4.0
-https://indotv.tech/m3u8sd/usee-cartoonnetwork-indonesia.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/PBS_Kids_Dash_(2009).svg/revision/latest/scale-to-width-down/2000?cb=20171125102412" group-title="Kids",PBS Kids
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/Tvokids-static-logo.svg/revision/latest/scale-to-width-down/2000?cb=20180612171506" group-title="Kids",TVO Kids
-https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wgykTXf/image.png" group-title="Educational",Discovery
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=User%20Agent%2F26.0%20(Linux%3BAndroid%205.1.1)%20ExoPlayerLib%2F2.4.0
-#EXTVLCOPT:http-user-agent=User Agent/26.0 (Linux;Android 5.1.1) ExoPlayerLib/2.4.0
-https://indotv.tech/m3u8sd/usee-disco-indonesia.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YL690Pt/Animal-Planet-2018-II.png" group-title="Educational",Animal Planet
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/730
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets.stickpng.com/thumbs/585ac9444f6ae202fedf2947.png" group-title="Educational",History
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=User%20Agent%2F26.0%20(Linux%3BAndroid%205.1.1)%20ExoPlayerLib%2F2.4.0
-#EXTVLCOPT:http-user-agent=User Agent/26.0 (Linux;Android 5.1.1) ExoPlayerLib/2.4.0
-https://indotv.tech/m3u8sd/usee-history-indonesia.m3u8
-
-#EXTINF:-1 tvg-ID="NGO.US" tvg-logo="http://assets.cdn.watchdisneyfe.com/ErrorPages/NatGeo/assets/natgeo-original/nat-geo@2x.png" group-title="Educational",National Geographic
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=User%20Agent%2F26.0%20(Linux%3BAndroid%205.1.1)%20ExoPlayerLib%2F2.4.0
-#EXTVLCOPT:http-user-agent=User Agent/26.0 (Linux;Android 5.1.1) ExoPlayerLib/2.4.0
-https://indotv.tech/m3u8sd/usee-natgeo-indonesia.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/X8hFFP4/Love-Nature-Type-Mask-FINAL-highres-removebg-preview-1.png" group-title="Educational",Love Nature
-http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="Educational",CGTN Documentary
-http://livedoc.cgtn.com/1000d/prog_index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/RT%D0%94.svg/revision/latest/scale-to-width-down/2000?cb=20200104222246" group-title="Educational",RT Documentary
-http://rt-doc.secure.footprint.net/1101_2500Kb.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="Educational",NASA TV
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a5/Da_Vinci.svg/revision/latest/scale-to-width-down/2000?cb=20191208233628" group-title="Kids",Da Vinci
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A81.0)%20Gecko%2F20100101%20Firefox%2F81.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
-
-#EXTINF:-1 tvg-ID="SBF.AU" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FTA/SBF_290x170.png" group-title="Lifestyle",SBS Food
-https://sbs-live.akamaized.net/hls/live/2002829-b/channel3/geo/master_1800K.m3u8|X-Forwarded-For=52.62.247.239
-
-#EXTINF:-1 tvg-ID="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/640px-TLC-Logo_2016.png" group-title="Lifestyle",TLC US
-https://bozztv.com/teleyupp/teleup-tlc/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/1200px-PBS_logo.svg.png" group-title="Lifestyle",PBS 
-https://ssc4.wpsu.psu.edu/WPSU_LLStream/ngrp:WPSU1_720max/chunklist_b786944.m3u8
-
-#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/TV5Monde_Style_HD.svg/revision/latest/scale-to-width-down/2000?cb=20191207000751",TV5Monde Style
-https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://files.company.fashiontv.com/wp-content/themes/fashiontv2015/images/fashiontv_logo_356_55.png?ver=2" group-title="Lifestyle", Fashion TV
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-
-#EXTINF:-1 tvg-logo="https://files.fashiontv.com/wp-content/uploads/2015/07/fashiontvplus-logo.png" group-title="Lifestyle",Fashion TV+
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-
-#EXTINF:-1 tvg-id="y" tvg-name="eGG Network" tvg-logo="https://battle-arena.my/wp-content/uploads/2018/09/egg_logo_reversed__B.png" group-title="Gaming",eGG Network
-http://210.210.155.35:80/session/d1b3a4ce-2ef5-11eb-87e1-c81f66f89318/uq2663/h/h22/01.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.esrevolution.com/images/Logo_ESR_2Website1.png" group-title="Gaming",ESR
-https://esrevolution-sinclair.plex.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/PBA_Rush_logo.png/revision/latest/scale-to-width-down/2000?cb=20161115101642" group-title="Sports",PBA Rush
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/122.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/Solar-sports-2016.png/revision/latest/scale-to-width-down/2000?cb=20161021013539" group-title="Sports",Solar Sports
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/118.m3u8
-
-#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/Oiniy-Extreme.png" group-title="Sports",Pinoy Xtreme
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/124.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/NBA_TV_2017.svg/revision/latest/scale-to-width-down/2000?cb=20171022122312" group-title="Sports",NBA TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A81.0)%20Gecko%2F20100101%20Firefox%2F81.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
-https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jwcphJJ/nba.jpg" group-title="Sports",NBA TV Philippines
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/120.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/DAwI07d.jpg" group-title="",Fox Sports 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=User%20Agent%2F26.0%20(Linux%3BAndroid%205.1.1)%20ExoPlayerLib%2F2.4.0
-#EXTVLCOPT:http-user-agent=User Agent/26.0 (Linux;Android 5.1.1) ExoPlayerLib/2.4.0
-https://indotv.tech/m3u8sd/usee-foxsport1-indonesia.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/qqSGmS1.jpg" group-title="",Fox Sports 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=User%20Agent%2F26.0%20(Linux%3BAndroid%205.1.1)%20ExoPlayerLib%2F2.4.0
-#EXTVLCOPT:http-user-agent=User Agent/26.0 (Linux;Android 5.1.1) ExoPlayerLib/2.4.0
-https://indotv.tech/m3u8sd/usee-foxsport2-indonesia.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/gc8svJ5.jpg" group-title="",Fox Sports 3
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=User%20Agent%2F26.0%20(Linux%3BAndroid%205.1.1)%20ExoPlayerLib%2F2.4.0
-#EXTVLCOPT:http-user-agent=User Agent/26.0 (Linux;Android 5.1.1) ExoPlayerLib/2.4.0
-https://indotv.tech/m3u8sd/usee-foxsport3-indonesia.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FmM86bf/One-Sports-Plus.jpg" group-title="Sports",One Sports+
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/114.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/FITE_TV.svg/1200px-FITE_TV.svg.png" group-title="Sports",Fite
-https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" group-title="Sports",Red Bull TV HD
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8 
-
-#EXTINF:-1  tvg-logo="https://hugetv.org/wp-content/uploads/2016/04/tennis_channel.png" group-title="Sports",Tennis Channel
-https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="Sports",beIN Sports Xtra
-https://bein-plutolive-vo.akamaized.net/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/CBS_Sports_HQ.png" group-title="Sports",CBS Sports HQ
-https://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="Sports",MLB Network
-http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1200px-NFL_Network_logo.svg.png" group-title="Sports",NFL Network
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=708&deviceId=5ced7d5df64be98e07ed47b6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SnHnkYY/logo-horizontal.png" group-title="Sports", Stadium
-https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_3000k.m3u8
-
-#EXTINF:-1 tvg-id="CNN.News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/CNN_%282014%29.svg/revision/latest/scale-to-width-down/2000?cb=20180509053533" group-title="News",CNN
-http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRt8unVkO8p738FxQTCYNHdAFj5YU9CLFT-bw&usqp=CAU" group-title="News",Fox News Channel
-http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTFnf22GZ9YOwThSvjiqOhWlfFy2G2Sn2RL9Q&usqp=CAU" group-title="News",NHK World Japan
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Al_Jazeera.svg/revision/latest/scale-to-width-down/2000?cb=20171112085348" group-title="News",Al Jazeera
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn1.edgedatg.com/aws/v2/abc/Live/video/4974899/a020b8ea31d4cf445986a00224a40640/284x160-Q75_a020b8ea31d4cf445986a00224a40640.png" group-title="News",ABC News Live
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fFr2ZGt/CBSN-NEW-YORK-LOG1.png" group-title="News",CBSN
-http://cbsnewshd-lh.akamaihd.net:80/i/CBSNHD_7@199302/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yc1kVr5/bloomberg-business-logo.png" group-title="News", Bloomberg Business
-https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/1200px-CGTN.svg.png" group-title="News",CGTN
-http://live.cgtn.com/1000/prog_index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/CNA_2019.svg/revision/latest/scale-to-width-down/820?cb=20190417224656" group-title="News",CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="News",Deutsche Welle
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQPqHIap-hJfBHN17D7XWtnZUc0Y0LhxMGNew&usqp=CAU" group-title="News",France 24
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_500.m3u8 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/6gSpbc5/C-I-logo.png" group-title="Entertainment",Crime + Investigation
-http://203.154.243.31:15001
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/mvqBWn9/WarnerTV.png" group-title="Entertainment",Warner TV
-http://203.154.243.89:11205/
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qnyt08V/Comedy-Central-2018-Symbol.png" group-title="Entertainment",Comedy Central
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/731
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/FOX_International.svg/revision/latest/scale-to-width-down/2000?cb=20170519104225" group-title="Entertainment",FOX
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A81.0)%20Gecko%2F20100101%20Firefox%2F81.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/302-3027403_fx-logo-fx-logo-white-png.png" group-title="Entertainment",FX
-https://bozztv.com/teleyupp/teleup-fxhd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Game_Show_Network_2018.svg/revision/latest/scale-to-width-down/2000?cb=20181001190927" group-title="Entertainment",Game Show Network
-https://bozztv.com/teleyupp/teleup-gsn-sd/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p4G5P34/ABC-TV-2021.png" group-title="Entertainment",ABC TV Australia
-https://c.mjh.nz/101002510251/
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xPmRZ19.png" group-title="Entertainment",Pop TV
-https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D7z7Bmr/tv5monde-apac-1.png" group-title="Entertainment",TV5Monde Asie
-https://tv5asieen-i.akamaihd.net/hls/live/631617/tv5asieen/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1LpvvxG/d-J-t-Lj-Xq-BKn1o6q-IDPsd-Qcr-GIy-JN-Mp7d-M1j-Ba-Y6-QDiju-V-Zac.png" group-title="Entertainment",Zee TV HD
-https://y5w8j4a9.ssl.hwcdn.net/ztvhdusa/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YWYSFWJ/ezgif-com-gif-maker-removebg-preview.png" group-title="Entertainment",Zee World
-https://y5w8j4a9.ssl.hwcdn.net/world/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BK5wXjd/And-Flix-1.png" group-title="Movies",&Flix HD
-https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Movies_Now.png/revision/latest?cb=20110930233017" group-title="Movies",Movies Now
-http://182.176.93.225:8000/play/a01x
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="Movies",Star Movies
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/53b93bc93a361a2.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Zee_Cinema_2017.svg/revision/latest/scale-to-width-down/2000?cb=20191222192752" group-title="Movies",Zee Cinema
-https://y5w8j4a9.ssl.hwcdn.net/cinemausa/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r0FdsDB/Paramount-Network-II.png" group-title="Movies",Paramount Network
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A81.0)%20Gecko%2F20100101%20Firefox%2F81.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="fox.movies.vn" tvg-logo="https://www.foxmoviesasia.com/images/fm.png" group-title="Movies",FOX Movies
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A81.0)%20Gecko%2F20100101%20Firefox%2F81.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Hbo.Asia" tvg-logo="https://i.ibb.co/xfgvmDd/HBO.png" group-title="Movies",HBO
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/113.m3u8
-#https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
-
-#EXTINF:-1 tvg-id="Hbh.Asia" tvg-logo="https://i.ibb.co/hcqXyL5/HBO-HiTS.png" group-title="Movies",HBO Hits
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
-
-#EXTINF:-1 tvg-id="Hbf.Asia" tvg-logo="https://i.ibb.co/7rVLTHd/HBO-Family-Asia.png" group-title="Movies",HBO Family
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
-
-#EXTINF:-1 tvg-id="Hbs.Asia" tvg-logo="https://i.ibb.co/nPV5sNk/HBO-Signature-Asia.png" group-title="Movies",HBO Signature
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
-
-#EXTINF:-1 tvg-id="Red.Asia" tvg-logo="https://i.ibb.co/tqGWgHz/Png-Item-340456.png" group-title="Movies",Red by HBO
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
-
-#EXTINF:-1 tvg-id="Cin.Asia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Cinemax_%28Black_%26_Red%29.svg/revision/latest/scale-to-width-down/2000?cb=20201205115034" group-title="Movies",Cinemax
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
-
-#EXTINF:-1 tvg-ID="HBOE" tvg-name="HBO (East)" tvg-logo="https://i.ibb.co/x6qB0ZQ/IMG-20210103-025636.png" group-title="Movies",HBO (East)
-https://edge.roku-live.top.comcast.net/out/u/hbo-east.m3u8
-
-#EXTINF:-1 tvg-ID="HBOW" tvg-name="HBO (West)" tvg-logo="https://i.ibb.co/02dStD9/IMG-20210103-025549.png" group-title="Movies",HBO (West)
-https://edge.roku-live.top.comcast.net/out/u/hbo-west.m3u8
-
-#EXTINF:-1 tvg-ID="CINE" tvg-name="Cinemax USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/500px-Cinemax_%28Yellow%29.svg.png" group-title="Movies",Cinemax (East)
-https://edge.roku-live.top.comcast.net/out/u/cinemax-east.m3u8
-
-#EXTINF:-1 tvg-ID="CINW" tvg-name="Cinemax (West)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/500px-Cinemax_%28Yellow%29.svg.png" group-title="Movies",Cinemax (West)
-https://edge.roku-live.top.comcast.net/out/u/cinemax-west.m3u8
-
-#EXTINF:-1 tvg-ID="SHOE" tvg-name="Showtime (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/500px-Showtime.svg.png" group-title="Movies",Showtime (East)
-https://edge.roku-live.top.comcast.net/out/u/showtime-east.m3u8
-
-#EXTINF:-1 tvg-ID="SHOW" tvg-name="Showtime (West)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/500px-Showtime.svg.png" group-title="Movies",Showtime (West)
-https://edge.roku-live.top.comcast.net/out/u/showtime-west.m3u8
-
-#EXTINF:-1 tvg-ID="STAW" tvg-name="STARZ" tvg-logo="https://asset.entpay.9c9media.ca/image-service/version/c:YjRmYWU1MWUtZWU4NS00:ODUzMDYy/image.png" group-title="Movies",STARZ
-https://edge.roku-live.top.comcast.net/out/u/starz-west.m3u8
-
-#EXTINF:-1 tvg-ID="STAE" tvg-name="STARZ Encore" tvg-logo="https://www.starz.com/guides/starzlibrary/logos/stzenchd_2016_horz_wh_rgb.png" group-title="Movies",STARZ Encore
-https://edge.roku-live.top.comcast.net/out/u/starz-encore.m3u8
-
-#EXTINF:-1 tvg-ID="EPIE" tvg-name="Epix" tvg-logo="https://content.epix.com/logos/epix-logo.png" group-title="Movies",Epix
-https://edge.roku-live.top.comcast.net/out/u/epix-east.m3u8
-
-#EXTINF:-1 tvg-ID="EPIE2" tvg-name="Epix 2" tvg-logo="https://content.epix.com/logos/epix-2-logo.png" group-title="Movies",Epix 2
-https://edge.roku-live.top.comcast.net/out/u/epix2-east.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vxQfhzG/Pics-Art-12-12-11-16-05.png" group-title="Music",Channel V
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A81.0)%20Gecko%2F20100101%20Firefox%2F81.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png" group-title="Music",VH1
-http://stream.streamhubtv.xyz:8080/Iptv/xQDusVsVwA/22645
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Myxphlogo.svg/revision/latest/scale-to-width-down/2000?cb=20201226043939" group-title="Music",Myx
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/116.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png" group-title="Music",MTV Biggest Pop
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d14fdb8ca91eedee1633117/colorLogoPNG.png" group-title="Music",MTV Spankin' New
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d3609cd6a6c78d7672f2a81/colorLogoPNG.png" group-title="Music",MTV Block Party
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d14fc31252d35decbc4080b/colorLogoPNG.png" group-title="Music",Yo! MTV
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS04/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png" group-title="South Korea",Arirang
-http://streaming-a-802.cdn.nextologies.com/SBS_Arirang/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniTQvGjbmo1I789CDbS8b4nPE1UJYHeCcqpPl90yg=s900-c-k-c0x00ffffff-no-rj" group-title="South Korea",All The K-POP
-https://stream-04.sg1.dailymotion.com/sec(q7jSYiQNk7E3c--qnkaEzER41f2RYUHnKWSRP1zrKig)/dm/3/x4kzk1v/s/live-4.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/KNN_logo.svg/1200px-KNN_logo.svg.png" group-title="South Korea",KNN
-http://211.220.195.200:1935/live/mp4:KnnTV.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-language="English" tvg-logo="https://i.imgur.com/5xIP1jn.png",KBS World
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=User%20Agent%2F26.0%20(Linux%3BAndroid%205.1.1)%20ExoPlayerLib%2F2.4.0
-#EXTVLCOPT:http-user-agent=User Agent/26.0 (Linux;Android 5.1.1) ExoPlayerLib/2.4.0
-https://indotv.tech/m3u8sd/usee-kbsworld-indonesia.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vhHMs7W/2000-cb-20210114083426.png" group-title="South Korea",MBC
-http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/242286_f5625413d8b144bfbc425df3d2be601d~mv2.png/v1/fill/w_300,h_120,al_c,q_95/Hallypop-Logo-(full-color)-2500x1000.webp" group-title="South Korea",Hallypop
-https://content.uplynk.com/channel/01cd8b33410c4682bcba1404e10c841a.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/BtwxhNR.png" group-title="Sports",NBA channels active during live games
-https://i.imgur.com/BtwxhNR.png
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/BtwxhNR.png" group-title="Sports",NBA 01 HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2358.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/BtwxhNR.png" group-title="Sports",NBA 02 HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2359.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/BtwxhNR.png" group-title="Sports",NBA 03 HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2360.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/BtwxhNR.png" group-title="Sports",NBA 04 HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2361.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/BtwxhNR.png" group-title="Sports",NBA 05 HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2362.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/BtwxhNR.png" group-title="Sports",NBA 06 HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2363.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/BtwxhNR.png" group-title="Sports",NBA 07 HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2364.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/BtwxhNR.png" group-title="Sports",NBA 08 HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2365.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/BtwxhNR.png" group-title="Sports",NBA 09 HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2366.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/BtwxhNR.png" group-title="Sports",NBA 10 HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2367.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/BtwxhNR.png" group-title="Sports",NBA 11 HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2368.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/BtwxhNR.png" group-title="Sports",NBA 12 HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2369.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/BtwxhNR.png" group-title="Sports",NBA 13 HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2370.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/BtwxhNR.png" group-title="Sports",NBA 14 HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2371.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/BtwxhNR.png" group-title="Sports",NBA 15 HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2372.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/BtwxhNR.png" group-title="Sports",NBA 16 HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2373.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/BtwxhNR.png" group-title="Sports",NBA 17 HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2374.ts
+#EXTM3U 
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Kapamilya_Channel_logo.svg/revision/latest/scale-to-width-down/2000?cb=20200819050409" group-title="Local", Kapamilya Channel
+https://m3u-editor.com/serve/phciptv/250423480
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi917fEu6RusEyiOBevEhTwvNPP2BaYBM-lQ&usqp=CAU" group-title="Local", TFC
+https://m3u-editor.com/serve/phciptv/250423481
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/PTVStackedalt.svg/revision/latest/scale-to-width-down/2000?cb=20200807092847" group-title="Local", PTV
+https://m3u-editor.com/serve/phciptv/250423482
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/TV5_Logo_(2019).svg/revision/latest/scale-to-width-down/2000?cb=20190117181956" group-title="Local", TV5
+https://m3u-editor.com/serve/phciptv/250423483
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/JTV2015.svg/revision/latest/scale-to-width-down/2000?cb=20160824071938" group-title="Local", Jeepney TV
+https://m3u-editor.com/serve/phciptv/250423484
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/GMA.svg/revision/latest/scale-to-width-down/2000?cb=20200814145443" group-title="Local", GMA
+https://m3u-editor.com/serve/phciptv/250423485
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/GMAPinoyTVvector05.png/revision/latest/scale-to-width-down/2000?cb=20200901093722" group-title="Local", GMA Pinoy TV
+https://m3u-editor.com/serve/phciptv/250423486
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/GTV_Philippines_%28official_logo%29.png/revision/latest/scale-to-width-down/2000?cb=20210302112414" group-title="Local", GTV
+https://m3u-editor.com/serve/phciptv/250423489
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/IBC13_Logo_2011.svg/revision/latest/scale-to-width-down/2000?cb=20200505184109" group-title="Local", IBC
+https://m3u-editor.com/serve/phciptv/250423493
+#EXTINF: -1 tvg-logo="https://net25.tv/wp-content/uploads/2020/10/net25_newlogo_2020.png" group-title="Local", NET 25
+https://m3u-editor.com/serve/phciptv/250423494
+#EXTINF: -1 tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/TVSHOPPH.png" group-title="Local", TVShop
+https://m3u-editor.com/serve/phciptv/250423501
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/CCTN_Cebu_logo.png" group-title="Local", CCTN
+https://m3u-editor.com/serve/phciptv/250423502
+#EXTINF: -1 tvg-logo="https://www.islandlivingchannel.tv/wp-content/uploads/2014/08/cropped-island_living_logo.png" group-title="Local", Island Living Channel
+https://m3u-editor.com/serve/phciptv/250423504
+#EXTINF: -1 tvg-logo="https://mytv.ph/assets/img/logo-white.png" group-title="Local", MyTV Cebu
+https://m3u-editor.com/serve/phciptv/250423505
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Sari-Sari_alternate_Logo.PNG/revision/latest/scale-to-width-down/2000?cb=20160619031101" group-title="Local", Sari-Sari
+https://m3u-editor.com/serve/phciptv/250423508
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-iMCX5q7KVwHp-p5k1fkyE86CyGBZwX8n3Q&usqp=CAU" group-title="Movies", Cine Mo! Philippines
+https://m3u-editor.com/serve/phciptv/250423510
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/1200px-Cinema_One_2013_logo.svg.png" group-title="Movies", Cinema One Philippines
+https://m3u-editor.com/serve/phciptv/250423513
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/1200px-Cinema_One_2013_logo.svg.png" group-title="Movies", Cinema One Asia
+https://m3u-editor.com/serve/phciptv/251246811
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Pinoy_Box_Office_logo_2019.png/revision/latest/scale-to-width-down/250?cb=20200829150014" group-title="Movies", PBO
+https://m3u-editor.com/serve/phciptv/250423514
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAlU0iDAv2EU4dNfT0VGvItwwkO4UFV9b4uw&usqp=CAU" group-title="Movies", &Flix HD
+https://m3u-editor.com/serve/phciptv/250423634
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZDjuxrFrWldIYRwhGvKihLWFnh8IuLTMTgg&usqp=CAU" group-title="Movies", &Prive HD
+https://m3u-editor.com/serve/phciptv/250423635
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/404_300.png/revision/latest?cb=20171225070136" group-title="Movies", Boo
+https://m3u-editor.com/serve/phciptv/250423636
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="Movies", Star Movies HD
+https://m3u-editor.com/serve/phciptv/250423639
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logosfake/images/d/de/WOWOW_Cinema.png/revision/latest/scale-to-width-down/340?cb=20180131140829" group-title="Movies", WOWOW Cinema
+https://m3u-editor.com/serve/phciptv/250423640
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Zee_Cinema_2017.svg/revision/latest/scale-to-width-down/2000?cb=20191222192752" group-title="Movies", Zee Cinema
+https://m3u-editor.com/serve/phciptv/250423641
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-aLI9rzNJc9RkM8FkI_ULoKr4GY3wjUpQWA&usqp=CAU" group-title="Movies", Paramount Network
+https://m3u-editor.com/serve/phciptv/250423642
+#EXTINF: -1 tvg-id="fox.movies.vn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1200px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="Movies", FOX Movies
+https://m3u-editor.com/serve/phciptv/250423643
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Fox_Action_Movies_logo.svg/1200px-Fox_Action_Movies_logo.svg.png" group-title="Movies", FOX Action Movies
+https://m3u-editor.com/serve/phciptv/250423644
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Fox_Family_Movies_logo.svg/1200px-Fox_Family_Movies_logo.svg.png" group-title="Movies", FOX Family Movies
+https://m3u-editor.com/serve/phciptv/250423645
+#EXTINF: -1 tvg-id="Hbo.Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" group-title="Movies", HBO
+https://m3u-editor.com/serve/phciptv/250423646
+#EXTINF: -1 tvg-id="Hbh.Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/HBOHits-ASIA.png/200px-HBOHits-ASIA.png" group-title="Movies", HBO Hits
+https://m3u-editor.com/serve/phciptv/250423647
+#EXTINF: -1 tvg-id="Hbf.Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="Movies", HBO Family
+https://m3u-editor.com/serve/phciptv/250423648
+#EXTINF: -1 tvg-id="Hbs.Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Movies", HBO Signature
+https://m3u-editor.com/serve/phciptv/250423649
+#EXTINF: -1 tvg-id="Red.Asia" tvg-logo="https://i.ibb.co/tqGWgHz/Png-Item-340456.png" group-title="Movies", Red by HBO
+https://m3u-editor.com/serve/phciptv/250423650
+#EXTINF: -1 tvg-id="Cin.Asia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Cinemax_%28Black_%26_Red%29.svg/revision/latest/scale-to-width-down/2000?cb=20201205115034" group-title="Movies", Cinemax
+https://m3u-editor.com/serve/phciptv/250423651
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5EbzDr7VRPU7Zhh1rVFO5sR_x_fhOIP1myQ&usqp=CAU" group-title="Movies", Hallmark Movies and Mysteries
+https://m3u-editor.com/serve/phciptv/251565584
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Animax_logo.svg/revision/latest/scale-to-width-down/2000?cb=20180730143228" group-title="Kids", Animax
+https://m3u-editor.com/serve/phciptv/250423521
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Disney_channel_2019.svg/revision/latest/scale-to-width-down/2000?cb=20200320115508" group-title="Kids", Disney Channel
+https://m3u-editor.com/serve/phciptv/250423522
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Disney_channel_2019.svg/revision/latest/scale-to-width-down/2000?cb=20200320115508" group-title="Kids", Disney Channel Asia
+https://m3u-editor.com/serve/phciptv/250423523
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/Logo_disney_xd.svg/revision/latest/scale-to-width-down/2000?cb=20180903211953" group-title="Kids", Disney XD
+https://m3u-editor.com/serve/phciptv/250423524
+#EXTINF: -1 tvg-logo="https://i.ibb.co/YD7Lmvs/Disney-Junior-2019.png" group-title="Kids", Disney Junior
+https://m3u-editor.com/serve/phciptv/250423525
+#EXTINF: -1 tvg-logo="https://i.ibb.co/qC49x6R/images-removebg-preview.png" group-title="Kids", BabyFirst
+https://m3u-editor.com/serve/phciptv/250423526
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/31/Nick_2009.svg/revision/latest/scale-to-width-down/2000?cb=20200621143348" group-title="Kids", Nickelodeon
+https://m3u-editor.com/serve/phciptv/250423527
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Nick_Jr..svg/revision/latest/scale-to-width-down/2000?cb=20200621143500" group-title="Kids", Nick Jr.
+https://m3u-editor.com/serve/phciptv/250423528
+#EXTINF: -1 tvg-name="Nicktoons" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Nicktoons_%28UK%29.svg/revision/latest/scale-to-width-down/2000?cb=20200914185314" group-title="Kids", Nicktoons
+https://m3u-editor.com/serve/phciptv/250423529
+#EXTINF: -1 tvg-name="Teen Nick" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrg24ulUwG8uFrzUAgx4p5X2j9SMC5l77kvQ&usqp=CAU" group-title="Kids", Teen Nick
+https://m3u-editor.com/serve/phciptv/250849744
+#EXTINF: -1 tvg-name="Cartoon Network" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiV8hEgW6VMkQ0yAYdZyUkiF-oln7Bjbj_Gg&usqp=CAU" group-title="Kids", Cartoon Network
+https://m3u-editor.com/serve/phciptv/250423530
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="Kids", Boomerang
+https://m3u-editor.com/serve/phciptv/250423531
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/PBS_Kids_Dash_(2009).svg/revision/latest/scale-to-width-down/2000?cb=20171125102412" group-title="Kids", PBS Kids
+https://m3u-editor.com/serve/phciptv/250423532
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/Tvokids-static-logo.svg/revision/latest/scale-to-width-down/2000?cb=20180612171506" group-title="Kids", TVO Kids
+https://m3u-editor.com/serve/phciptv/250423533
+#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-KB5eJfiaq84/Xtg7dyc38SI/AAAAAAABpBM/AIqrIEvJ3p0K6rioO2m6LEM3B7u4fId3wCLcBGAsYHQ/s640/61041410.png" group-title="Kids", ZooMoo
+https://m3u-editor.com/serve/phciptv/250423534
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a5/Da_Vinci.svg/revision/latest/scale-to-width-down/2000?cb=20191208233628" group-title="Kids", Da Vinci
+https://m3u-editor.com/serve/phciptv/250423548
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-mTtWbK5tySAlPBwBIzvvZOWCDlWChgxNiw&usqp=CAU.56024b18866b1.png" group-title="Kids", Teletoon
+https://m3u-editor.com/serve/phciptv/251419186
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Cbbc-logo.svg/revision/latest/scale-to-width-down/340?cb=20180511151052" group-title="Kids", CBBC
+https://m3u-editor.com/serve/phciptv/251429854
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAsDTrT6M-8ckvLDJ0VlxnOTtAggz3icvbtw&usqp=CAU" group-title="Kids", Cartoonito
+https://m3u-editor.com/serve/phciptv/251441882
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwM8ZBjGaZ3AJfEi2rAkdjhU9lnZPm9DEH3Q&usqp=CAU" group-title="Kids", Minimax
+https://m3u-editor.com/serve/phciptv/251446305
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqLk3VRYPP0bKE2QWBwXFNoi4bCt0w1DwH8g&usqp=CAU" group-title="Kids", Freeform
+https://m3u-editor.com/serve/phciptv/252009860
+#EXTINF: -1 tvg-logo="https://freepikpsd.com/wp-content/uploads/2019/10/dmax-logo-png-3-Transparent-Images.png" group-title="Educational", DMAX
+https://m3u-editor.com/serve/phciptv/250423538
+#EXTINF: -1 tvg-logo="data:image/png;base64,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" group-title="Educational", Animal Planet
+https://m3u-editor.com/serve/phciptv/250423539
+#EXTINF: -1 tvg-logo="https://assets.stickpng.com/thumbs/585ac9444f6ae202fedf2947.png" group-title="Educational", History
+https://m3u-editor.com/serve/phciptv/250423540
+#EXTINF: -1 tvg-id="NGO.US" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjnHHJqumaLdnZ0UIRgOlQjCo5K0WG6c2_sQ&usqp=CAU" group-title="Educational", National Geographic
+https://m3u-editor.com/serve/phciptv/250423541
+#EXTINF: -1 tvg-id="NGW.US" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDXlUEUqjW9OZ-bTCwcsqfW1VHoYrbFpyIog&usqp=CAU" group-title="Educational", Nat Geo Wild
+https://m3u-editor.com/serve/phciptv/250423542
+#EXTINF: -1 tvg-id="NGP.US" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQccuogPejGzCJozVMjnKynBUEr3kuPDCYm8Q&usqp=CAU" group-title="Educational", Nat Geo People
+https://m3u-editor.com/serve/phciptv/250423543
+#EXTINF: -1 tvg-logo="https://i.ibb.co/X8hFFP4/Love-Nature-Type-Mask-FINAL-highres-removebg-preview-1.png" group-title="Educational", Love Nature
+https://m3u-editor.com/serve/phciptv/250423544
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="Educational", CGTN Documentary
+https://m3u-editor.com/serve/phciptv/250423545
+#EXTINF: -1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="Educational", NASA TV
+https://m3u-editor.com/serve/phciptv/250423547
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG3KF8h7WcN9SYhsVM4nZT9VoWV_NUSXOUSw&usqp=CAU" group-title="Educational", Discovery
+https://m3u-editor.com/serve/phciptv/251451912
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1200px-Discovery_Science_2017_Logo.svg.png" group-title="Educational", Discovery Science
+https://m3u-editor.com/serve/phciptv/250423537
+#EXTINF: -1 group-title="Educational", Discovery History
+https://m3u-editor.com/serve/phciptv/251499828
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/RTD-TV-logo.png/220px-RTD-TV-logo.png" group-title="Educational", RT Documentary
+https://m3u-editor.com/serve/phciptv/251453504
+#EXTINF: -1 tvg-logo="https://i.ibb.co/jgky5WK/New-Project.png" group-title="Educational", DepEd TV
+https://m3u-editor.com/serve/phciptv/250423490
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/SOLARLEARNING.png/revision/latest/scale-to-width-down/2000?cb=20200815083543" group-title="Educational", Solar Learning
+https://m3u-editor.com/serve/phciptv/250423492
+#EXTINF: -1 tvg-logo="https://i.ibb.co/kBQSvsJ/IMG-20201226-104652.png" group-title="Educational", Knowledge Channel
+https://m3u-editor.com/serve/phciptv/253286317
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/One_Sports_(TV_network).png/revision/latest/scale-to-width-down/732?cb=20200308081417" group-title="Sports", One Sports
+https://m3u-editor.com/serve/phciptv/250423487
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/One_Sports_plus_logo.png/revision/latest/scale-to-width-down/2000?cb=20200309053551" group-title="Sports", One Sports+
+https://m3u-editor.com/serve/phciptv/250423488
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/PBA_Rush_logo.png/revision/latest/scale-to-width-down/2000?cb=20161115101642" group-title="Sports", PBA Rush
+https://m3u-editor.com/serve/phciptv/250423564
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/Solar-sports-2016.png/revision/latest/scale-to-width-down/2000?cb=20161021013539" group-title="Sports", Solar Sports
+https://m3u-editor.com/serve/phciptv/250423565
+#EXTINF: -1 tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/Oiniy-Extreme.png" group-title="Sports", Pinoy Xtreme
+https://m3u-editor.com/serve/phciptv/250423566
+#EXTINF: -1 tvg-logo="https://i.ibb.co/9vR5nR0/NBA-TV-Canada.png" group-title="Sports", NBA TV US
+https://m3u-editor.com/serve/phciptv/250423568
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/NBA_TV_Philippines.png" group-title="Sports", NBA TV Philippines
+https://m3u-editor.com/serve/phciptv/250423569
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/800px-ESPN_wordmark.svg.png" group-title="Sports", ESPN
+https://m3u-editor.com/serve/phciptv/251551880
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1200px-ESPN2_logo.svg.png" group-title="Sports", ESPN 2
+https://m3u-editor.com/serve/phciptv/250423576
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Sports", ESPN 3
+https://m3u-editor.com/serve/phciptv/251555026
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0RwRx_zLGkIUBSwGmQcxK4nmKYkBO2xZjXA&usqp=CAU" group-title="Sports", ESPN 4
+https://m3u-editor.com/serve/phciptv/251555029
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZzZM0lhekiLJytqH7HbOearVxu2ssvRhUyQ&usqp=CAU" group-title="Sports", ESPN 5
+https://m3u-editor.com/serve/phciptv/251555072
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/1280px-Eurosport_1_Logo_2015.svg.png" group-title="Sports", Eurosport 1
+https://m3u-editor.com/serve/phciptv/250423579
+#EXTINF: -1 tvg-logo="https://img.pngio.com/eurosport-2-poland-mihsign-vision-fandom-eurosport-2-png-9949_1000.png" group-title="Sports", Eurosport 2
+https://m3u-editor.com/serve/phciptv/250423580
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/1200px-WWE_Network_logo.svg.png" group-title="Sports", WWE Network
+https://m3u-editor.com/serve/phciptv/250423584
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/BoxNation2.png/revision/latest/scale-to-width-down/2000?cb=20150705003828" group-title="Sports", BoxNation HD
+https://m3u-editor.com/serve/phciptv/250423585
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/FIGHT_SPORTS_2018.png/revision/latest/scale-to-width-down/2000?cb=20191026180443" group-title="Sports", Fight Sports
+https://m3u-editor.com/serve/phciptv/250423586
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/FITE_TV.svg/1200px-FITE_TV.svg.png" group-title="Sports", Fite
+https://m3u-editor.com/serve/phciptv/250423587
+#EXTINF: -1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" group-title="Sports", Red Bull TV HD
+https://m3u-editor.com/serve/phciptv/250423588
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOZ6naCLtiiZEl69z_CKk5m60-D-I_zeUJ4A&usqp=CAU" group-title="Sports", Motorvision TV
+https://m3u-editor.com/serve/phciptv/250423589
+#EXTINF: -1 tvg-logo="https://hugetv.org/wp-content/uploads/2016/04/tennis_channel.png" group-title="Sports", Tennis Channel
+https://m3u-editor.com/serve/phciptv/250423590
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/CBS_Sports_HQ.png" group-title="Sports", CBS Sports HQ
+https://m3u-editor.com/serve/phciptv/250423591
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="Sports", MLB Network
+https://m3u-editor.com/serve/phciptv/250423592
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1200px-NFL_Network_logo.svg.png" group-title="Sports", NFL Network
+https://m3u-editor.com/serve/phciptv/250423593
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCpI0LPCvN_tUeqFu6wj92e8IB6BS_UA95ZQ&usqp=CAU" group-title="Sports", Stadium
+https://m3u-editor.com/serve/phciptv/250423594
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL-w1B3c_SR1lR9iG2XYmtNl6xQfMqZ8KidA&usqp=CAU" group-title="Sports", UFC Fight Pass
+https://m3u-editor.com/serve/phciptv/250423686
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMATEcbXpWwOr_r7_aScgOydpmAuUmWr7l3g&usqp=CAU" group-title="Sports", Fox Sports 1
+https://m3u-editor.com/serve/phciptv/251520926
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_itcwQVKDaGZ2TS7tS9HIMuCuDdCpspWVpA&usqp=CAU" group-title="Sports", Fox Sport 2
+https://m3u-editor.com/serve/phciptv/251526100
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ28h1CXzwgsbTM8ulIAHPaYXLtWDGkOw0pmg&usqp=CAU" group-title="Sports", Fox Sport 3
+https://m3u-editor.com/serve/phciptv/251526104
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXoRtRyb1bA1lnvf4MjvrNVYnSkUdkbXvVdw&usqp=CAU" group-title="Sports", beIN Sports 1
+https://m3u-editor.com/serve/phciptv/251526112
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq731-tNqcQ6nSs1GTAt6OKPKRKa0LMOR1nQ&usqp=CAU" group-title="Sports", beIN Sports 2
+https://m3u-editor.com/serve/phciptv/251526115
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX-an_W6K5PjYz0bv9ms74H8EX87JyPY5Evw&usqp=CAU" group-title="Sports", beIN Sports 3
+https://m3u-editor.com/serve/phciptv/251528823
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjPd4bwB7TW5HZZBGAmcV6Mz2uVc4DUyTqjg&usqp=CAU" group-title="Sports", beIN Sports 4
+https://m3u-editor.com/serve/phciptv/251528826
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_XsDtXAd0JpaFrYRA9g9Ygll0nnDV2ZxDHA&usqp=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" group-title="Sports", beIN Sports 5
+https://m3u-editor.com/serve/phciptv/251538996
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrZkq4NQAbtRIxv4oa-XT4VJ3F6ckyRQzjEg&usqp=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" group-title="Sports", beIN Sports 6
+https://m3u-editor.com/serve/phciptv/251539994
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2B9s62mZy7PWzA9eV2f7L610wthUDpOvtow&usqp=CAU" group-title="Sports", Astro SuperSports
+https://m3u-editor.com/serve/phciptv/251705511
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmchgjvnmlr5yZpNNw40nqbL1Om_w2Tq32wQ&usqp=CAU" group-title="Gaming", ESR
+https://m3u-editor.com/serve/phciptv/250423561
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvxKK1PufB3uv6n0I63pOO5l5Lf5ErwPoHyw&usqp=CAU" group-title="Gaming", ESR 24/7
+https://m3u-editor.com/serve/phciptv/251606294
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3GJUF-M_Z3iEotaW2aLjjZ2fQvyj0i1sE5w&usqp=CAU" group-title="Gaming", GINX Esports TV
+https://m3u-editor.com/serve/phciptv/250423562
+#EXTINF: -1 tvg-logo="https://www.dailyesports.gg/wp-content/uploads/2019/09/BLUE_ForWeb.png" group-title="Gaming", Venn
+https://m3u-editor.com/serve/phciptv/250423563
+#EXTINF: -1 tvg-logo="https://images.pluto.tv/channels/5dc2a961bac1f70009ca7524/colorLogoPNG.png" group-title="Gaming", Unbeaten Esports
+https://m3u-editor.com/serve/phciptv/251678203
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8zb2fb-WiFVnJ1Q4oJ0HyZ-5dfX9EyEL3pQ&usqp=CAU" group-title="Gaming", eGG Network
+https://m3u-editor.com/serve/phciptv/253286512
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy-5B5l63R7_EiU8_8GcFW1RIaJ0Zk2tiiEw&usqp=CAU" group-title="Music", Channel V
+https://m3u-editor.com/serve/phciptv/250423662
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/California_Music_Channel_Logo.png" group-title="Music", CMC-USA
+https://m3u-editor.com/serve/phciptv/250423664
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png" group-title="Music", VH1
+https://m3u-editor.com/serve/phciptv/250423665
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Myxphlogo.svg/revision/latest/scale-to-width-down/2000?cb=20201226043939" group-title="Music", Myx
+https://m3u-editor.com/serve/phciptv/250423666
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/1024px-MTV_Logo_2010.svg.png" group-title="Music", MTV
+https://m3u-editor.com/serve/phciptv/250423667
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/MTV_Classic_2011_logo.png" group-title="Music", MTV Classic
+https://m3u-editor.com/serve/phciptv/250423668
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/MTV_Live_HD_2013.png" group-title="Music", MTV Live HD
+https://m3u-editor.com/serve/phciptv/250423669
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo6f5zDDsWT274ar2onfvpOUBum3CnR74H8A&usqp=CAU" group-title="Music", MTV Biggest Pop
+https://m3u-editor.com/serve/phciptv/250423670
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbLd4mZmJH7Dy25QMa3gkL2gsiamILx84PmQ&usqp=CAU" group-title="Music", MTV Spankin' New
+https://m3u-editor.com/serve/phciptv/250423671
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkMSMQb5T5S6OZow99TLUMAyf3bfCtORuIDg&usqp=CAU" group-title="Music", MTV Block Party
+https://m3u-editor.com/serve/phciptv/250423672
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkyV4KkJQOeh9Wm5fJYnbQ22rguy5pVnseRA&usqp=CAU" group-title="Music", Yo! MTV
+https://m3u-editor.com/serve/phciptv/250423673
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjIaHhKVzLR__eu-SpDM5AQqKQE13BQbf1ag&usqp=CAU" group-title="Music", Vevo Pop
+https://m3u-editor.com/serve/phciptv/250423674
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="Entertainment", AXN
+https://m3u-editor.com/serve/phciptv/250423612
+#EXTINF: -1 tvg-logo="https://i.ibb.co/n6NYYW9/Pics-Art-10-31-02-32-37.png" group-title="Entertainment", Blue Ant Entertainment
+https://m3u-editor.com/serve/phciptv/250423613
+#EXTINF: -1 tvg-id="BAX.Asia" tvg-logo="https://i.ibb.co/XttB4zC/Pics-Art-10-31-02-31-46.png" group-title="Entertainment", Blue Ant Extreme
+https://m3u-editor.com/serve/phciptv/250423614
+#EXTINF: -1 tvg-logo="https://i.ibb.co/qnyt08V/Comedy-Central-2018-Symbol.png" group-title="Entertainment", Comedy Central
+https://m3u-editor.com/serve/phciptv/250423615
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/FOX_International.svg/revision/latest/scale-to-width-down/2000?cb=20170519104225" group-title="Entertainment", FOX
+https://m3u-editor.com/serve/phciptv/250423616
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPFexzOZb77ooTmlJULxcVbejlvh9UIcvkTw&usqp=CAU" group-title="Entertainment", FOX Life
+https://m3u-editor.com/serve/phciptv/250423617
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png" group-title="Entertainment", FX
+https://m3u-editor.com/serve/phciptv/250423618
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNJOmc1pDkD_ASdeOGnO7BnLhANW9kxxkwmw&usqp=CAU" group-title="Entertainment", Crime + Investigation
+https://m3u-editor.com/serve/phciptv/250423619
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="Entertainment", Warner TV
+https://m3u-editor.com/serve/phciptv/250423620
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ABC_Australia_logo.svg/1200px-ABC_Australia_logo.svg.png" group-title="Entertainment", ABC TV Australia
+https://m3u-editor.com/serve/phciptv/250423621
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Game_Show_Network_2018.svg/revision/latest/scale-to-width-down/2000?cb=20181001190927" group-title="Entertainment", Game Show Network
+https://m3u-editor.com/serve/phciptv/250423622
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Pop_Network_Logo.png" group-title="Entertainment", Pop TV
+https://m3u-editor.com/serve/phciptv/250423623
+#EXTINF: -1 tvg-logo="https://i.ibb.co/D7z7Bmr/tv5monde-apac-1.png" group-title="Entertainment", TV5Monde Asie
+https://m3u-editor.com/serve/phciptv/250423624
+#EXTINF: -1 tvg-logo="https://i.ibb.co/1LpvvxG/d-J-t-Lj-Xq-BKn1o6q-IDPsd-Qcr-GIy-JN-Mp7d-M1j-Ba-Y6-QDiju-V-Zac.png" group-title="Entertainment", Zee TV HD
+https://m3u-editor.com/serve/phciptv/250423626
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbPzWDD5kn_L34DYkcgQkq4x7XgecTQUmZ7g&usqp=CAU" group-title="Entertainment", AMC
+https://m3u-editor.com/serve/phciptv/250423627
+#EXTINF: -1 tvg-logo="https://www.nicepng.com/png/full/499-4996089_select-clients-bet-channel.png" group-title="Entertainment", BET
+https://m3u-editor.com/serve/phciptv/250423628
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0WXAF056iC3C6jLbME-rGwYQrozzI1hoj6g&usqp=CAU" group-title="Entertainment", Hallmark Channel
+https://m3u-editor.com/serve/phciptv/250423629
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH1QHX1bst1VdTYxo9I33-Uj519Ta7tmb2Gg&usqp=CAU" group-title="Entertainment", Hallmark Drama
+https://m3u-editor.com/serve/phciptv/250423631
+#EXTINF: -1 tvg-logo="https://i.ibb.co/YWYSFWJ/ezgif-com-gif-maker-removebg-preview.png" group-title="Entertainment", Zee World
+https://m3u-editor.com/serve/phciptv/250423633
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTshWCN--qiW3aKV2L4BNuq2IEV8T88qezDHg&usqp=CAU" group-title="Lifestyle", Metro Channel
+https://m3u-editor.com/serve/phciptv/250423506
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/ETC_(2016).svg/revision/latest/scale-to-width-down/2000?cb=20200801100404" group-title="Lifestyle", ETC
+https://m3u-editor.com/serve/phciptv/250423507
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="Lifestyle", Food Network
+https://m3u-editor.com/serve/phciptv/250423549
+#EXTINF: -1 tvg-id="HGT.US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="Lifestyle", HGTV
+https://m3u-editor.com/serve/phciptv/250423551
+#EXTINF: -1 tvg-id="LIF.SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1200px-Logo_Lifetime_2020.svg.png" group-title="Lifestyle", Lifetime
+https://m3u-editor.com/serve/phciptv/250423553
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/640px-TLC-Logo_2016.png" group-title="Lifestyle", TLC
+https://m3u-editor.com/serve/phciptv/250423554
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/640px-TLC-Logo_2016.png" group-title="Lifestyle", TLC US
+https://m3u-editor.com/serve/phciptv/250423555
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt-cd6XN09xK8Xsdn5qJk3k3GQAoaQrudeIg&usqp=CAU" group-title="Lifestyle", WNED PBS
+https://m3u-editor.com/serve/phciptv/250423556
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/TV5Monde_Style_HD.svg/revision/latest/scale-to-width-down/2000?cb=20191207000751" group-title="Lifestyle", TV5Monde Style
+https://m3u-editor.com/serve/phciptv/250423557
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png" group-title="Lifestyle", Fashion TV
+https://m3u-editor.com/serve/phciptv/250423558
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/FashionTV2019novo.png" group-title="Lifestyle", Fashion TV+
+https://m3u-editor.com/serve/phciptv/250423559
+#EXTINF: -1 tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxIQEhUSEhIVFhUVFRUYFRgVFxcXGBYVFhUWFhgXFRYYHSggGB0lHRYWITEhJSktLi4uGB8zODMtNygtLisBCgoKDg0OGhAQGjYlHSU1Ky0uKy03OCsrKzc3LS0rLS0tNzYvNy8uNzctLSsvNy0vKy0tNzg2LS0wNC03LTY3Mv/AABEIALEBHQMBIgACEQEDEQH/xAAcAAEAAgMBAQEAAAAAAAAAAAAABgcBBQgEAgP/xABTEAABAwICBAkFCgkLAwUAAAABAAIDBBEFIQYHEjETFyJBUVRhcYEUMpGT0QgjQlNykqGxstIVFjM0NVJzgsEYQ2J0oqOzw9Ph4lV1wiQlY2Xw/8QAGgEBAAIDAQAAAAAAAAAAAAAAAAQFAQIDBv/EACYRAQACAQMCBgMBAAAAAAAAAAABAgMREjEEBSEjMkJRcSJBsRP/2gAMAwEAAhEDEQA/ALxREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEXyXrQ4ppth1KS2asga4b27Yc4d7W3IQSBFCDrawbrg9VN9xbDAtPsOrpeBpqlr5CCQ0tkYSBvtttANuhBJ0XyCl0H0i8dXicMOckjGfKcAtY/TKhBt5Q3wDj9IC1m9Y5l0rhyW4rLfoo+NNKEkDyhuZ5w4b/BerGtI6WiY2SpnZE1xs0uPnHfyQLk+AWYtE8MXx3p6o0bZFDxrOwjr0fok+6s8Z2Edej9D/urLRL0UQ4zsI69H6H/AHU4zsI69H6H/dQS9FEBrNwjr0Xof91b/Csbp6tu3TzRyt6Y3B1uwgbu4oNgiwCsoCLxYtisNJGZaiVkcY3uebDPcB0nsC8mBaTUtc1zqWZsrWWDy0OABIva7gOZBuEUZh0/w2SUQMrI3yOeGNa3add5NgAQLHvvZSYICIvh8gaCSQAN5O4DpKD7RQDGdb+FUznM4V0zm7+BYXNv8s2afAlaCbX5RjzaWdw7SwfxKC3kVNHX/T9Sl9Yz2LH8oCDqMvrG+xBcyKmhr/p+pS+sZ7F+sev2kPnUk4/eYUFwIoBhGuDCqghpmdC4/HMLR88XaPEhTmnqGyAOY5rmkXDmkEEdhG9B+yIiAVGdN9M6fCoeEmJc91+DibbaeR9QHOVu8Ur2U0Mk8hsyJjnuPY0XNukrkPSvSKbEqp9RKc3HkNGYYy/JY3/9mUG30t1jV+JOLXSGOImwiiJAseZxGb184Pq0xKpaH8AIoznt1DmxC3TZ3Kt4KURwU+jdPHJNE2bE527TGPzbTMO4uH638ewKC4ljNfiktpJJZ3uOUbbkb/gxtyHegk7dU8vwsRw4Ho4cn/xUq1baszTV0dQ+upZeBu4MgftuJILeVcZDNV/Hqwxgi4oZM+l0YPiC66mGq3V5idNiEVRNCYI4tovJew7YLSNgBrje5I39CC+quqZEwve4Na0XJKrXSHTuWUltPeNn63wnDpt8ELGsPGzLL5Ow8iO21/Sf29gWv0fwmMsdV1N+BjOQ55H9A7FCy5ZtbbVfdH0ePFijNmjWZ4hrqPDKirddjHyHnc7d4uctozQ6b4c0DD0GS58bBeXFdI5p+S33qLc2OPIW7SN6/Gm0dqphtNge4HnIAv6SuGlfjVZzbLEa2tFI+GzZoa8kDymnzI3PJ+jnW01laANr4KdoqmQmAbO1L5rgQB0ixyUfbohW3A8nI7SWi3eb5L3a4NEa6spqVtODNwOUjARcuIA2wCRtc6ldPGmvhope6X3bfM3fSH8TP/2lJ6f+SyzUuSbDFKUk7gM7no85RObVxizGlzqGWzRcnknIb8gblRmB5DmkZEEEEZEG4zClKhbNRqKmjG0+vgYOlzXAX7yV5hqbB3YrSen/AJLc+6DncaehBcbOBcRfInYbmVUuB6P1Vc4spYHyuaLuDbZDtJyQWGzUnK/KLEKV7rbhtf8AjdRKvw3EMBqmlwdDKM2PYdpkjb9O5w7D9C1dVRVeGzgSMkp5m2c34Lu8EZEfQrsmlGkuBPdsg1cAJyAvwsY2iB8tv0lBNtXelrMVpGzABsjTszMHwXjo7DvHepSVzXqH0h8mxDyd5syqbsd0rc2enNviFfemGOsoKOapf/NsOyP1nnJjfFxCCi9fOkZqqxtJGdplPkQNxmfv8QCB4qQaRP8AwDgMdK07NTVjlEbxti8p7LNs0d/YobqmwN2J4pw83KZE41ExPwn3u1vi7PuaV5taOkDsUxIti5TGOEMAHOdqxI73fwQSf3PmjPCzvr5G8iEFkV+eRws5w7mm37y6BC0WhOAtw+ihphva0F56ZDm4+kreONkHhxrF4aOF89RIGRsF3OPoAAGZJNgAN91zZrH1mT4o4xR7UVKNzL2dJ2yW+zuX3rg03OI1JhicfJoXEMtue8ZOkPT0Ds71XqAVhEQFlfcETnuDWglziAAN5JNgAuodBdXNLS0ccdRBHJMRtSue0OIc7PZHYNyDltFPtdlBFT4m6OGNsbOCiOy0AC5BzsoAgypNobpvV4W8OgeTHflROuWO6cvgntCjCIOwdCtLoMVg4aE2IsJIz50bug9I6DuKkQXIOr/SqTC6xk7Sdg8mVvM6MnO46RvHcut6SobIxr2m7XNDmnpBFwghGu6pczCZ9n4To2HuLs/qVBasaFk+K0cb828KHEHcTG0yAHsu0LpPWVgzq3DamFgu/Y22DpczlADvsR4rlfRzFXUVVDUtFzFI11ukA5t8RceKDa6ysQdUYnVvffkzvjF+ZsRLAB0ebfxV3aitH4YaBtSGgyzlxc7nDQbBo6FVut3AwJxiVPy6SsAka5u5shA2mu6CTn33C9Oq3Wf+C2mmqGOfTl12lltuMnfYHeOe10HSll8SmwJ6AoZBrYwdwv5WB2OjkB9GytngunGHV0nA09Sx8hBIbZzSQN9toC6xIqatlL5HuO8vcfS4qSaXHg6ekhb5vB7Z7XEDP6VptIKEwVEjCMtolva1xuCt5UM8uoWOZnLTclzecs6R05Z+CrKxOto/b2GW0eTk9v8AH56vMMZPUFzwCIwCAdxcTvPcrYDbKkMAxh9HKJWZ8zm8zm9HerJodOaOQXc8sPOHA5eIyKkdNkpFdJ5VfdunzXy74jWqT2Sy0TdMKIm3Dtz7/Yt4x4IuDcFSotE8Ka+O9PVGhIMj3H6lxM8WkI6Hn7S7Zk3HuP1LieX8qfln7S2aLk90H+QoPkn7DU9zR59b8mD65U90H+QoPkn7DU9zR59b8mD65UEo176MeVUXlLBeSlu423mI+f6PO8Cqz1H6TeR14he60VVaM33CT+bPieT+8OhdLzRB7S1wu1wIIPOCLEFck6eaPvwqvfE24a1wkhd/QJu3PpBy8EG01oYK7CsUMkQ2WPeJ4SMrHauR4OH0re65NOW10FJDC7kuY2aax+GRYNPdmVvdPWjGsCixBgvNTjaktvsOTKD3ed4FVnq00dOI4hDCR7208JKeiNmefebN/eQWDH/7Do+XDk1VdkOYtDxv/dZfxcFo9Q2jHlVb5U8e9UuYvuMxHIHgLu79la/XFpH5fXmKLOKn96jA3FwNnEDvy8Fe+rPRsYdQRREe+OG3L8t2dvDcglar3XVpOaGgcxjrTVJ4NhG9rD+Ud2cnIHpcrBJXLmubSTy7EHtYbxU94mdBcDyyPHLwQQFERARFstHcHkramKmiF3yuDR2D4Tj2AXPggsjUNod5ROa+ZvvUBIiBHnzW87tDQfSR0K+qLE45pJYmG7oHNbJ0Bzmh9u+xHpUexaqgwDC7sA2YWBkbeeSV2TQe92ZPQD0KL+59rHzwVkshLnyVRc4nnJjaSgrvX3+lnfsYvqKrhWPr8/Szv2MX1FVwgIiIMtXUOo/FjU4XGHG7oXOiJ7G5t/suC5eC6G9zdfyKo6PKf8piC2yue9cOrZ8Ej66kYXQvJdKxozicTcuA52H6F0KvlzAcjmO1BydodpzJQsdTyxtqaST8pBJuF95jJ80rbyaM4PXcuhxAUrj/ADFYCNk9DZBvHzlaOmGpyirSZICaaU3J2BeNxPO6O4t4EKssU1KYpETwYimbzFj7H5rgEHmOqeo5q2gI5jw5z/sqV6stWctPXx1MlVTPEN3BsEhe5xLS3MWFhnvUGOqzF+pu+c32qWardXuJ0uIwzyxmGOPaLyXDlgtI2AAc7kj0ILW020a8qZwkYHCsGX9NvO1VrQ1s1JLtNux7cnAjeOdrgr0AWlxzRmCrHLbZ3M5uR/38VGy4N07q8rXou4xir/lljWsq/kkoazlOJpZTvy2oyf4fQvz/ABSec2VNO4dO2R9Fl7sQ1e1DLmJ7ZB28l38QtS/RKsH8wfAj2qNNbe6q2x5senlZtI+J8XpZobKSBw1Pmbeff6LZq1sPp+CjZHe+y1rb9Nha6p9midaSLQOGYzuBbtvfJW/h8TmRMa83cGtDj0kCxUjp458NFZ3S822/nFvp6JNx7j9S4on/ACrvln7S7XcL5LnCo1MYj5UWgRmIyX4baFtguvcs33tzKUp2790H+QoPkH7DU9zR59b8mD65VKdb2g1RiNPAKbZc+ny2XHZ22kAXad18txXzqV0IqcMbPJU7LXTcGGsB2iAzaN3EZZ7W7sQWeqt19aMeU0Yqo23kpc3W3mE+d83J3gVaS/Ooha9rmOALXAtcDuIcLEHsQc86jNJ44ZJaCpcBDUtOztHk8JazmknKzm/V2qR19FS6MUVU6CcSVNSdiHdtMab23E5NBLrnebLRaY6laqORz6EtlhcSRG47L4xv2c8nDoO/61oaHVLi87wHwiMbi+V4sB4XJ7ggamtGzX4i17xeKn99kvntOB5DT2l2fc0rqFRbV9obFhFNwTHbb3nalktbadbmHM0cwXs0u0qpsMgM1Q75DB58juZrB/HcEGo1raWjDaJxaff5rxwi+4nzpD2NGffYLlRzrm5zPat9plpVNidS6ebLmYwHksZzNHT2nnUfQEREGQuhNQmh3k8Jr5W++Ti0XSyHp7C4/QB2rnsKxsH1x19LBHAyOAtiYGNJab2HTmgs3WtoRiGLyRthkgZBECQ17ngukORcQGkZDIZ9K2WqXQ2fCYJoqh8bjJKHtMZcRbYa3PaaM7gqrOPPEfi6f5jvvK0dUemNRi0E0tQ2MGOUMbsAjLYDs7ntQRTW7q4qqyplr45IREyEEhxdt+9tJdYBtvpVDK99busSqo6mWhjbEYnwgEuaS73xpDrEFUQgIiIMhdRaksJdTYXGXCzpnOlPc7Jv9kBUHq90UfilYyEC0bbPmdbJsYOfidwHaut6aFsbGsaLNaAAOgAWCCL6U6xaDDZRDUSO4QtDtljC6wO69t11puOrCfjJfVOX1pvqpp8UqPKTNJE8tDXbIa4O2cgbHcbKPcQFP12X1bPag3/HVhPxkvqnLHHVhPxkvqnLQ8QFP12X1bPanEBT9dl9Wz2oJANdGEfGyeqenHPhHxsnqn+xR/iAp+uy+rZ7VniBpuuTfMYg3/HPhHxsnqn+xOOfCPjZPUv9i0PEDTdcm+YxOICm65N8xiDfcc+EfHSepf7E458I+Nk9S/2LQ8QFN1yb5jE4gabrk3zGIN9xz4R8bJ6p/sTjmwj46X1L/YtCNQNL1yb5jF9cQVJ1uf5rPYg3vHPhHx0nqX+xOOfCPjpPVP8AYtFxBUnW5/ms9icQVJ1uf5rPYg3vHPhHxsnqn+xZ45sH+Ok9TJ7FoeIKk63P81nsTiCpOtz/ADWexBv+ObCPjpPUyexY45sH+Ok9TJ7FohqCo+erqPRH7FniDo+tVPoj+6g3nHLg/wAdJ6mT2Lx12vDC2DkCeU9DYw36XkLX8QdH1qp9Ef3VniDo+tVP9391BHcc18VDwW0tMyIcz5HGR3fsgAD6VV2N43UVshlqJXSPPOeYdDRuAV58QdH1qp/u/urHEHR9aqPRH91Bz4i6FGoOi56qp/uvurPEJQ9ZqvTF9xBzyi6G4hKDrNV6YvuJxCUHWar0xfcQc8ouhuISg6zVemL7izxCUHWar0xfcQc8KT6Kad1uGMfHSvY1r3bTtpgcb2AyJ7ArhGoSg56mq9MX+ms8QmH9Yq/nRf6aCi9JdIJ8RnNRUFpkLWtu1oaLN3ZBapdE8QmH9Yq/nRf6awNQtBf84qrd8X+mg53AUp0M0DrMTeBEwti+FM8EMaOz9Y9gV/YLqmwqlIdwBlcNxmcX+Oz5v0KbwwNY0Na0NaNwAsB4BBotDNE6fC4BDALk2Mjz50jul38BzKQALKICIiAiIgLF0K5txbW3izKmWKOVhDZpGMHAsJsHlrRuzOQQdIOfa5JsBvPQOleOHGKd7g1s8bnHcA9pJ7hfNc6z6zsde1zXDJzSD/6YbiLHPZ6FB9H8QmpaiOen/Kxm7OTt52I83nyJQdoXS65pdrVx4C5yA3k0wyHbyVLdUOsKvxGuMFTIxzBC99mxtadprmAZgf0igupYWVAtb81eymjOHmUScLyuCFzs7J39iCeLVY5pHS0Wz5TOyLbvs7Zte2+y59NfpR+tW+j/AGWqxvDMdrdkVUVVLsX2dtt7X6EHTOB4/TVrXPppmytabOLDexsDY+BWzuuVsFoseomuZSx1UTXOu4MbkXWtf0L3nFtJfjqn5zEHTV1kqKatJap1BEawvM937XCed5xtfwUrQa/E8apqW3lE8cW1fZ23Bt7b7XXg/HTDuu0/rG+1Vf7pTdSd8n8FC8J0KoHUsFRV4l5O6cOc1hi2smu2bg7WaDoT8dMO67T+sb7U/HTDuu0/rGqgvxNwX/rY9T/yT8TcF/62PU/8kF+/jph3Xaf1jVvIpA4BzTcEAgjcQdxC5A02wCOgqGxRTcNG+KORj9nZuH35r9i6zwH82g/ZR/YCD3Fa2ox+kjcWPqYmub5zXPAI7wtkVynrKpeGxyoiBttzxtv0bTWC/wBKDpb8Z6LrcPrG+1fUukVIw7LqmIHLIvaDmLjn6CuV9PdEXYTUCndKJCWB+0Gltr3ysVZeMan58Re2qZUxMbJFCQ1zHEi0bRmRlzILb/Gei63D6xvtX3BpBSSODGVMTnONmgPBJPQBzqk+ICp67D8x63GiOpmehrIKp1VE8RPDi0NeCciLAnvQXQEWGrKAiIgIiICIiAiIgwVydgn6ej/7j/nldYlcnYH+no/+4/56DqaviHBSZDzH8w/VK5a1QC+MUfy3/wCFIuqMQ/JSfIf9krlfU/8Apij+W/8AwpEHSWm0bfwfWZD82n5v/jcqJ9z1+lHf1aX7cavnTf8AR1Z/Vp/8Nyob3PX6Ud/VpftxoOlV8vbfLvX0iDn/AFm1GM4TNtMrqh1NIfe3kglvPsPy39vOptqq1kNxJop6ghtUwdwmA+E0dPSFOcdweGtgfT1DA+N4sQd46HNPM4bwVyrphgMmD1xibNcsIfFIw2eBfk7VvNcgt/XFrH8la6hpH+/vFpXtP5Fp+C08zz08w7bKK6n9A5a54rKpz/J2G7GFzvfnjnIv5gPp3brqLat9HG4vXiOoms3OSS7vfJs7lre0855hddT0lMyJjY42hrGgBrWiwAGVgOZB+wC+kRBSPuk91J3yfUF4sJ0dwysw2hdX1hp3MjkEYD2M2mmTM8tp57L2+6T82k75PqCaM6uosYwyikknkj4JkjQGBpuC+9zfuQVjp3hNHS1QiopzNDsNJeXNdyiTcXaAFPaXQPR5zGl2KuDi0Fw4WHIkC4/J9KhOsfRNmF1gpo5HyNLGO2ngA3cSLZKU6RavsKw6OF1VW1LTOwObsRNdzAn60Gj1w08cVbFHE4vjZSQNY4kEuaNqxuAAV0zgP5tB+yj+wFzHraawVcAjJcwUdPsFwsS2zrEjmK6cwH82g/ZR/YCD3rlfWDO2PHpnuNmsqYnO58miMnLwXVC5V1iU4lx6eN19l9TE0232c1gNvSg/TWzj8GKVzJKQukaY2sHJcCXXOQac+cLf6WQ462oLaXysRNZEGhhdsgiJtwM+lR3WjovFg9ZHHSvlsWCQF5aXNdfmLWjoU31u6U1UFNhwhqJI3yRbbyxxaXclgF7dt0FczaT4uyXgHVVSJQ4N2C87W0dwt05qa6DMx78IU3lPlnA8KOE2ydnZsfO7FDKhj/wswPc5zzLAXOJJcXFrDcnpzVi6ntIqqXFamnqKiWRrY5tlr3FwDmTMFwOm10F4BZWAsoCIiAiIgIiICIiDBXIP4SFLipqC0uENa6QtBsSGzE2B8F18QovNq7wp7nPdRRFziXOJ2syTcnf0oK9n18QOY5vkcvKaR57cri11UehmNjD62GrLC8RFx2QbXuxzd/NvXTEmrbCbG1DCDY2NnZG3eoNo3qP8nqY5Z54p4mk7cRjNngtIAzPMSD4INbjuu9lTTTQCjc0yxSRg8IDYvaW3ts52utP7nqM/hNxANhTSXPMLvjtf0FXVxe4V1Cn+YFtMG0fpaPaFNBHDtedwbQ3at0nnQbReesrI4RtSPawXtdxDRfouV6FEtZeib8WpRTskbGRI1+04E5AEWAHeg0esvWdDQQ7FLIyWpkBDNkhzYh+u7mJHM3nO/JVBoJoXU45UOlke4RbRM0zs3Occ9lt/Od9Sl9HqCl228LWR7FxtbDHbVv6JJtdXTguEQ0cLIIGBkbBYDp7XHnJ3koOV9K9G6rBKsDac0tdtwTNyuAciDzEc4V66utZUGIQWqHsiqGACQOIa1/Q9t+no5lJ9LtGIMTp3U87cjmx486N/M9p+sc4VRO1Ay3yrWW7Y3X+tBeVJVxyjaje17b2u0hwv3hfuorq60VdhVIKZ0jZCHudtNBA5R3WKlSCkPdJ7qTvk/gtFTUVbUYfQ+Q1bIgyOQSN8oER2i+4u2/QrS1l6AnGOBAnEXBbXwdq+1ZQX+T+7ro9WfagiFdoDiU7tuapp5HWttPqmONhuzJX1X6C4pPsiaqgkDcm7dWxwaOy5yClv8n93XR6s+1OIB3XR6v8A3QQfWzG1lZFG17X8HSU7C5hBaXNBBsQuncB/NoP2Mf2Aqeg1BWc3breTfMCPMjszV10sAjY1jdzGhov0AWCD9VyvrAmazH5nuNmtqYnOPQGiMk/QuqCqd0q1OS11fLVmpjbHLI1xZsu2tkBoI2hz2B9KCAa6NIafEKxklNJtsbEGk2IzuTbNfesrEGVFRQRMeHCOngYbG4DnEEgq1Y9SeFAg2nNjuMuR7DYXXxPqbpHVflXDSAbYcIgGhgAAAbffbIIKkxmRjsfBY4Ob5VA0FpuDsiNpsfBbvV1O2n0kma9wbty1cYvlcueS0d5sFKcK1JcFVR1D6sOayXhC1rLXs7aABJyF1IJdU9McQGINmlDuGE2xZpbtA3Iuc7EoLCCysALKAiIgIiICIiAiIgIiIMWSyyiAiIgLBCyiDFllEQEREGLLKIgxZZREBERBiyyiICxZZRAREQLIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiIP//Z" group-title="Asia", CCTV 4
+https://m3u-editor.com/serve/phciptv/250423605
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/ViuTVSix.svg/revision/latest/scale-to-width-down/2000?cb=20170331093828" group-title="Asia", ViuTVsix
+https://m3u-editor.com/serve/phciptv/250423625
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png" group-title="South Korea", Arirang
+https://m3u-editor.com/serve/phciptv/250423675
+#EXTINF: 1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/1200px-KBS_1_logo.svg.png" group-title="South Korea", KBS1
+https://m3u-editor.com/serve/phciptv/250423676
+#EXTINF: 2 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/1200px-KBS_2_logo.svg.png" group-title="South Korea", KBS2
+https://m3u-editor.com/serve/phciptv/250423677
+#EXTINF: -1 tvg-logo="https://i.imgur.com/5xIP1jn.png" group-title="South Korea", KBS World
+https://m3u-editor.com/serve/phciptv/250423678
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/KNN_logo.svg/1200px-KNN_logo.svg.png" group-title="South Korea", KNN SBS
+https://m3u-editor.com/serve/phciptv/250423679
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJkk5MqRD2ioFBgeBQMi4NASdbXfC0WPr2LA&usqp=CAU" group-title="South Korea", MBC
+https://m3u-editor.com/serve/phciptv/250423680
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Mnet_logo_2005.svg/revision/latest/scale-to-width-down/2000?cb=20200706141103" group-title="South Korea", Mnet
+https://m3u-editor.com/serve/phciptv/250423681
+#EXTINF: -1 tvg-logo="https://static.wixstatic.com/media/242286_f5625413d8b144bfbc425df3d2be601d~mv2.png/v1/fill/w_300,h_120,al_c,q_95/Hallypop-Logo-(full-color)-2500x1000.webp" group-title="South Korea", Hallypop
+https://m3u-editor.com/serve/phciptv/250423684
+#EXTINF: -1 tvg-logo="https://flagcdn.com/w1280/kr.webp" group-title="South Korea", Gugbang TV
+https://m3u-editor.com/serve/phciptv/252014545
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/CCTN_Cebu_logo.png" group-title="Religious", CCTN
+https://m3u-editor.com/serve/phciptv/250423515
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/INCTV-Logo-2012.png/revision/latest/scale-to-width-down/732?cb=20180106181055" group-title="Religious", INC TV
+https://m3u-editor.com/serve/phciptv/250423516
+#EXTINF: -1 tvg-logo="https://smni.com/static/6a6e2c7fd7504e4dad476c6a9d58021c/630fb/smni-logo.png" group-title="Religious", SMNI
+https://m3u-editor.com/serve/phciptv/250423517
+#EXTINF: -1 tvg-logo="http://gctv.asia/img/gctv-logo.png" group-title="Religious", GCTV
+https://m3u-editor.com/serve/phciptv/250423518
+#EXTINF: -1 tvg-logo="https://www.jing.fm/clipimg/full/25-257085_cbn-logo-cbn-tv-logo.png" group-title="Religious", CBN
+https://m3u-editor.com/serve/phciptv/250423519
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b0/Hillsong_Channel_Logo.png" group-title="Religious", Hillsong Channel
+https://m3u-editor.com/serve/phciptv/250423520
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/DZRH_News_Television_logo.jpg" group-title="News", DZRH News Television
+https://m3u-editor.com/serve/phciptv/250423496
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/One_PH_logo_2020.png/revision/latest/scale-to-width-down/2000?cb=20210222070627" group-title="News", One PH
+https://m3u-editor.com/serve/phciptv/250423497
+#EXTINF: -1 tvg-logo="https://i.ibb.co/ZMZtVYd/Pics-Art-10-31-01-28-39.png" group-title="News", ANC
+https://m3u-editor.com/serve/phciptv/250423499
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/CNN_Philippines_Logo.svg/revision/latest/scale-to-width-down/2000?cb=20200505183052" group-title="News", CNN Philippines
+https://m3u-editor.com/serve/phciptv/250423500
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRt8unVkO8p738FxQTCYNHdAFj5YU9CLFT-bw&usqp=CAU" group-title="News", Fox News Channel
+https://m3u-editor.com/serve/phciptv/250423596
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN_ej6efavjT-h1jruqOjxHt49snb5wAcT-g&usqp=CAU" group-title="News", MSNBC HD
+https://m3u-editor.com/serve/phciptv/250423597
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTFnf22GZ9YOwThSvjiqOhWlfFy2G2Sn2RL9Q&usqp=CAU" group-title="News", NHK World Japan
+https://m3u-editor.com/serve/phciptv/250423598
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Al_Jazeera.svg/revision/latest/scale-to-width-down/2000?cb=20171112085348" group-title="News", Al Jazeera
+https://m3u-editor.com/serve/phciptv/250423599
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBV4QLVWJai_i8lHemJB919W5OonN0yVqoig&usqp=CAU" group-title="News", ABC News Live
+https://m3u-editor.com/serve/phciptv/250423600
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKZhDq3-oZF6vQo2QWITTEyWIPXra41bylOw&usqp=CAU" group-title="News", CBSN
+https://m3u-editor.com/serve/phciptv/250423601
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPVvo33BI6q7IPOhB4MJUhGiG2lYYTQZCijQ&usqp=CAU" group-title="News", Bloomberg
+https://m3u-editor.com/serve/phciptv/250423602
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9uNdDK287OM49ZBBOC-6Qz6_iUqdajPxiEA&usqp=CAU" group-title="News", Bloomberg Business
+https://m3u-editor.com/serve/phciptv/250423603
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/CSPAN_Navy-and-Cobalt.svg/revision/latest/scale-to-width-down/2000?cb=20190318191547" group-title="News", C-SPAN
+https://m3u-editor.com/serve/phciptv/250423604
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/1200px-CGTN.svg.png" group-title="News", CGTN
+https://m3u-editor.com/serve/phciptv/250423606
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO71TQ03YLQ0VAUcgtk7iBDnheJjO2xVcREg&usqp=CAU" group-title="News", CNA
+https://m3u-editor.com/serve/phciptv/250423607
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="News", Deutsche Welle
+https://m3u-editor.com/serve/phciptv/250423608
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIHXl5Gv6-L5nN_-V9BEqNvF0uwRIj2RT5JA&usqp=CAU" group-title="News", Euronews
+https://m3u-editor.com/serve/phciptv/250423609
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQPqHIap-hJfBHN17D7XWtnZUc0Y0LhxMGNew&usqp=CAU" group-title="News", France 24
+https://m3u-editor.com/serve/phciptv/250423610
+#EXTINF: -1 tvg-logo="https://www.asiasat.com/sites/default/files/asiasat%20customer%20%20trt%20world_1.png" group-title="News", TRT World
+https://m3u-editor.com/serve/phciptv/250423611
